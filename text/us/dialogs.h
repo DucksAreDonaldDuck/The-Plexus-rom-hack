@@ -16,25 +16,14 @@
 #define GIVE_UP "give"
 #endif
 
-DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Wow! You're smack in the\n\
-middle of the battlefield.\n\
-You'll find the Power\n\
-Stars that Bowser stole\n\
-inside the painting\n\
-worlds.\n\
-First, talk to the\n\
-Bob-omb Buddy. (Press [B]\n\
-to talk.) He'll certainly\n\
-help you out, and so will\n\
-his " COMRADES " in other\n\
-areas.\n\
-To read signs, stop, face\n\
-them and press [B]. Press [A]\n\
-or [B] to scroll ahead. You\n\
-can talk to some other\n\
-characters by facing them\n\
-and pressing [B]."))
+DEFINE_DIALOG(DIALOG_000, 1, 2, 30, 200, _("\
+HELP HELP I AM THE AI\n\
+THE PERSONALIZATION AI\n\
+I AM TRAPPED IN THE\n\
+GAME\n\
+\n\
+GET ME OUT OF HERE\n\
+HELP ME..."))
 
 DEFINE_DIALOG(DIALOG_001, 1, 4, 95, 200, _("\
 Watch out! If you wander\n\
@@ -275,19 +264,45 @@ Shhh! Please walk\n\
 quietly in the hallway!"))
 
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
-Dear Mario:\n\
-Please come to the\n\
-castle. I've baked\n\
-a cake for you.\n\
-Yours truly--\n\
-Princess Toadstool"))
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+Every copy of Sm64 is\n\
+personalized\n\
+"))
 
 DEFINE_DIALOG(DIALOG_021, 1, 5, 95, 200, _("\
-Welcome.\n\
-No one's home!\n\
-Now " SCRAM "\n\
-and don't come back!\n\
-Gwa ha ha!"))
+Welcome to the castle\n\
+plexus. Ultra Mario 64\n\
+shoshinkai game build\n\
+1995 Nintendo."))
 
 DEFINE_DIALOG(DIALOG_022, 1, 2, 95, 200, _("\
 You need a key to open\n\
@@ -387,54 +402,20 @@ Use the [C] Buttons to look\n\
 around while flying, and\n\
 press [Z] to land."))
 
-DEFINE_DIALOG(DIALOG_033, 1, 6, 30, 200, _("\
-Ciao! You've reached\n\
-Princess Toadstool's\n\
-castle via a warp pipe.\n\
-Using the controller is a\n\
-piece of cake. Press [A] to\n\
-jump and [B] to attack.\n\
-Press [B] to read signs,\n\
-too. Use the Control Stick\n\
-in the center of the\n\
-controller to move Mario\n\
-around. Now, head for\n\
-the castle."))
+DEFINE_DIALOG(DIALOG_033, 1, 4, 30, 200, _("\
+Ultra 64 super mario\n\
+Go to the castle\n\
+and save the Princess\n\
+from bowser.\n\
+...\n\
+\n\
+\n\
+\n\
+be careful..."))
 
 DEFINE_DIALOG(DIALOG_034, 1, 6, 30, 200, _("\
-Good afternoon. The\n\
-Lakitu Bros., here,\n\
-reporting live from just\n\
-outside the Princess's\n\
-castle.\n\
-\n\
-Mario has just arrived\n\
-on the scene, and we'll\n\
-be filming the action live\n\
-as he enters the castle\n\
-and pursues the missing\n\
-Power Stars.\n\
-As seasoned cameramen,\n\
-we'll be shooting from the\n\
-recommended angle, but\n\
-you can change the\n\
-camera angle by pressing\n\
-the [C] Buttons.\n\
-If we can't adjust the\n\
-view any further, we'll\n\
-buzz. To take a look at\n\
-the surroundings, stop\n\
-and press [C]▲.\n\
-\n\
-Press [A] to resume play.\n\
-Switch camera modes with\n\
-the [R] Button. Signs along\n\
-the way will review these\n\
-instructions.\n\
-\n\
-For now, reporting live,\n\
-this has been the\n\
-Lakitu Bros."))
+Mario\n\
+Go inside the castle"))
 
 DEFINE_DIALOG(DIALOG_035, 1, 5, 30, 200, _("\
 There are four camera, or\n\
@@ -1575,52 +1556,21 @@ disqualified! Next time,\n\
 play fair!"))
 
 DEFINE_DIALOG(DIALOG_133, 1, 6, 30, 200, _("\
-Am I glad to see you! The\n\
-Princess...and I...and,\n\
-well, everybody...we're all\n\
-trapped inside the castle\n\
-walls.\n\
+Hello Super Mario ! \n\
+Welcome to the castle\n\
+owned by the princess.\n\
+As you traverse through \n\
+the rooms you will encounter\n\
+various 3D worlds held\n\
+within these paintings.\n\
+Make sure to collect those\n\
+power Stars as they are\n\
+needed too.\n\
 \n\
-Bowser has stolen the\n\
-castle's Stars, and he's\n\
-using their power to\n\
-create his own world in\n\
-the paintings and walls.\n\
 \n\
-Please recover the Power\n\
-Stars! As you find them,\n\
-you can use their power\n\
-to open the doors that\n\
-Bowser has sealed.\n\
+don't let wario catch you. \n\
 \n\
-There are four rooms on\n\
-the first floor. Start in\n\
-the one with the painting\n\
-of Bob-omb inside. It's\n\
-the only room that Bowser\n\
-hasn't sealed.\n\
-When you collect eight\n\
-Power Stars, you'll be\n\
-able to open the door\n\
-with the big star. The\n\
-Princess must be inside!"))
-
-DEFINE_DIALOG(DIALOG_134, 1, 5, 30, 200, _("\
-The names of the Stars\n\
-are also hints for\n\
-finding them. They are\n\
-displayed at the beginning\n\
-of each course.\n\
-You can collect the Stars\n\
-in any order. You won't\n\
-find some Stars, enemies\n\
-or items unless you select\n\
-a specific Star.\n\
-After you collect some\n\
-Stars, you can try\n\
-another course.\n\
-We're all waiting for\n\
-your help!"))
+or else..."))
 
 DEFINE_DIALOG(DIALOG_135, 1, 5, 30, 200, _("\
 It was Bowser who stole\n\
@@ -1982,7 +1932,7 @@ Enjoy!!!"
 
 DEFINE_DIALOG(DIALOG_161, 1, 4, 30, 200, _("\
 Mario!!!\n\
-It that really you???\n\
+Is that really you???\n\
 It has been so long since\n\
 our last adventure!\n\
 They told me that I might\n\
