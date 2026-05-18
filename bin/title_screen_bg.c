@@ -117,22 +117,22 @@ ALIGNED8 static const Texture title_texture_0A005940[] = {
 
 // 0x0A0001C0
 ALIGNED8 static const Texture title_texture_0A0001C0[] = {
-#include "textures/title_screen_bg/title_screen_bg.001C0.rgba16.inc.c"
+#include "textures/title_screen_bg/custom_title_screen_bg.001C0.rgba16.inc.c"
 };
 
 // 0x0A000E40
 ALIGNED8 static const Texture title_texture_0A000E40[] = {
-#include "textures/title_screen_bg/title_screen_bg.00E40.rgba16.inc.c"
+#include "textures/title_screen_bg/custom_title_screen_bg.00E40.rgba16.inc.c"
 };
 
 // 0x0A001AC0
 ALIGNED8 static const Texture title_texture_0A001AC0[] = {
-#include "textures/title_screen_bg/title_screen_bg.01AC0.rgba16.inc.c"
+#include "textures/title_screen_bg/custom_title_screen_bg.01AC0.rgba16.inc.c"
 };
 
 // 0x0A002740
 ALIGNED8 static const Texture title_texture_0A002740[] = {
-#include "textures/title_screen_bg/title_screen_bg.02740.rgba16.inc.c"
+#include "textures/title_screen_bg/custom_title_screen_bg.02740.rgba16.inc.c"
 };
 
 // 0x0A0033C0

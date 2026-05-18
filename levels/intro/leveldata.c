@@ -8684,7 +8684,7 @@ ALIGNED8 static const Texture intro_seg7_texture_copyright_ique[] = {
 #else
 // 0x0700B4A0 - 0x0700B4A2
 ALIGNED8 static const Texture intro_seg7_texture_copyright[] = {
-#include "levels/intro/2_copyright.rgba16.inc.c"
+#include "levels/intro/custom_2_copyright.rgba16.inc.c"
 };
 #endif
 
